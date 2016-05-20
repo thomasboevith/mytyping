@@ -27,12 +27,10 @@ if status_code == 404:
 content = r.content
 
 # Store data
-today = time.strftime("%Y%m%d")
-outfile = 'data/data_' + today + '.json'
-if not os.path.isfile(outfile):
-    f = open(outfile, 'w')
-    f.write(content)
-    f.close()
+outfile = 'data/data.json'
+f = open(outfile, 'w')
+f.write(content)
+f.close()
 
 # Compute statistics
 with open(outfile) as datafile:
@@ -48,8 +46,9 @@ window_size = 5
 wpm_moving_avg = moving_average(wpm, n=window_size)
 recent_mean = np.mean(wpm[-10:])
 
-outplotfile = 'plot/' + os.path.splitext(os.path.basename(outfile))[0] + '.png'
+outplotfile = 'plot/newest.png'
 fig, ax = plt.subplots(nrows=1, ncols=1)
+today = time.strftime("%Y%m%d")
 plt.title("Typing Speed in TyperRacer, %s (Recent avg.=%i)" \
           % (today, recent_mean), fontsize=13)
 plt.xlabel("\nRace no.", fontsize=10)
@@ -60,5 +59,3 @@ plt.plot(wpm_moving_avg, color='#000000', \
 plt.legend(prop={'size': 9})
 fig.savefig(outplotfile)
 plt.close(fig)
-
-shutil.copy(outplotfile, 'plot/data_newest.png')
