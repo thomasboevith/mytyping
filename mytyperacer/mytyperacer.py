@@ -27,7 +27,8 @@ if status_code == 404:
 content = r.content
 
 # Store data
-outfile = 'data/data_' + time.strftime("%Y%m%d") + '.json'
+today = time.strftime("%Y%m%d")
+outfile = 'data/data_' + today + '.json'
 if not os.path.isfile(outfile):
     f = open(outfile, 'w')
     f.write(content)
@@ -49,8 +50,8 @@ recent_mean = np.mean(wpm[-10:])
 
 outplotfile = 'plot/' + os.path.splitext(os.path.basename(outfile))[0] + '.png'
 fig, ax = plt.subplots(nrows=1, ncols=1)
-plt.title("Typing Speed in TyperRacer (Recent avg.=%i)" % recent_mean,\
-              fontsize=13)
+plt.title("Typing Speed in TyperRacer, %s (Recent avg.=%i)" \
+          % (today, recent_mean), fontsize=13)
 plt.xlabel("\nRace no.", fontsize=10)
 plt.ylabel("Words per minute (5 chars/word)", fontsize=10)
 plt.plot(wpm, color='#cccccc')
