@@ -1,0 +1,125 @@
+[
+  {
+    "name": "FILCO Majestouch MINILA",
+    "author": "Thomas Bøvith",
+    "notes": "Super_L+Alt_L : for application shortcuts\n\nControl_L+Alt_L: for other shortcuts\n\nControl_L+æø : switch terminal tabs\n\nControl_L+1234 : switch panel workshapes\n\nControl_L+Alt_L+1234 : move window to workspace\n",
+    "switchMount": "cherry"
+  },
+  [
+    {
+      "f": 2
+    },
+    "Esc",
+    "!\n1\n\n¡\nF1",
+    "\"\n2\n\n@\nF2",
+    "#\n3\n\n£\nF3",
+    "¤\n4\n\n$\nF4",
+    "%\n5\n\n½\nF5",
+    "&\n6\n\n¥\nF6",
+    "/\n7\n\n{\nF7",
+    "(\n8\n\n[\nF8",
+    ")\n9\n\n]\nF9",
+    "=\n0\n\n}\nF10",
+    "?\n+\n\n±\nF11",
+    "'\n`\n\n|\nF12",
+    "§\n½\n\n¾",
+    "Back"
+  ],
+  [
+    {
+      "w": 1.5
+    },
+    "Tab",
+    "Q",
+    "W",
+    "E\n\n\n\nUp\n\nEmacs",
+    "R",
+    "T\n\n\n\n\n\nTerminal",
+    "Y",
+    "U",
+    "I\n\n\n\nPrint",
+    "O\n\n\n\nScLk",
+    "P\n\n\n\nCompse\n\nScDump",
+    "Å",
+    "^\n\"\n\n~",
+    {
+      "x": 0.25,
+      "w": 1.25,
+      "h": 2,
+      "h2": 1,
+      "x2": -0.25
+    },
+    "Enter"
+  ],
+  [
+    {
+      "w": 1.75
+    },
+    "Control",
+    "A\n\n\n\n\n\nClipAct",
+    "S\n\n\n\nLeft\n\nShade",
+    "D\n\n\n\nDown\n\nDesktop",
+    "F\n\n\n\nRight\n\nFirefox",
+    "G",
+    "H",
+    "J\n\n\n\nInsert",
+    "K\n\n\n\nHome",
+    "L\n\n\n\nPgUp\n\nLockScr",
+    "Æ\nPrev ter\n\n\nBackSp\n\nVolDn",
+    "Ø\nNext ter\n\n\n\n\nVolUp",
+    "*\n'\n\n\n\n\nMute"
+  ],
+  [
+    "Shift",
+    ">\n<\n\n\\",
+    "Z",
+    "X",
+    "C\n\n\n\n\n\nChrome",
+    "V\n\n\n\n\n\nClipbrd",
+    "B",
+    "N",
+    "M\n\n\n\nDelete\n\nEmail",
+    ";\n.\n\n\nEnd",
+    ":\n.\n\n\nPgDn",
+    "_\n-",
+    "Shift",
+    "Up",
+    "Delete"
+  ],
+  [
+    {
+      "w": 1.75
+    },
+    "Control",
+    {
+      "w": 1.25
+    },
+    "Super",
+    {
+      "w": 1.25
+    },
+    "Alt",
+    {
+      "w": 1.25
+    },
+    "Fn",
+    {
+      "a": 7,
+      "w": 3
+    },
+    "",
+    {
+      "a": 4,
+      "w": 1.25
+    },
+    "Fn",
+    {
+      "w": 1.25
+    },
+    "AltGr",
+    "Menu",
+    "Left",
+    "Down",
+    "Right"
+  ]
+]
