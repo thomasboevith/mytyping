@@ -37,10 +37,7 @@ with open(outfile) as datafile:
     data = json.load(datafile)
 
 # Words per minute
-wpm = []
-for i, d in enumerate(data):
-    wpm.append(d['wpm'])
-
+wpm = [d['wpm'] for d in data]
 wpm = np.asarray(list(reversed(wpm)))
 window_size = 5
 wpm_moving_avg = moving_average(wpm, n=window_size)
