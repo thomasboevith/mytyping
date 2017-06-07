@@ -1,7 +1,7 @@
 [
   {
     "backcolor": "#ffffff",
-    "name": "FILCO Majestouch-2",
+    "name": "FILCO, Majestouch-2, full size",
     "author": "Thomas Bøvith",
     "switchMount": "cherry",
     "switchBrand": "cherry",
@@ -48,10 +48,10 @@
     "¤\n4\n\n$",
     "%\n5\n\n½",
     "&\n6\n\n¥",
-    "/\n7\n\n{",
-    "(\n8\n\n[",
-    ")\n9\n\n]",
-    "=\n0\n\n}",
+    "/\n7\n\n{\n{",
+    "(\n8\n\n[\n[",
+    ")\n9\n\n]\n]",
+    "=\n0\n\n}\n}",
     "?\n+\n\n±",
     "'\n`\n\n|",
     {
@@ -61,9 +61,9 @@
     {
       "x": 0.25
     },
-    "Insert",
-    "Home",
-    "PgUp",
+    "Insert\n\n\n\nMute",
+    "Home\n\n\n\nPause",
+    "PgUp\n\n\n\nPlay",
     {
       "x": 0.25
     },
@@ -79,14 +79,14 @@
     "Tab",
     "Q\n\n\n@",
     "W",
-    "E\n\n\n€",
+    "E\n\n\n€\nEnd\n\nemacs",
     "R\n\n\n®",
-    "T",
-    "Y",
-    "U",
-    "I",
+    "T\n\n\n\n\n\nterm",
+    "Y\n\n\n\n(",
+    "U\n\n\n\n)",
+    "I\n\n\n\nTab",
     "O",
-    "P",
+    "P\n\n\n\nUp",
     "Å",
     "^\n\"\n\n~",
     {
@@ -103,9 +103,13 @@
     },
     "Delete",
     "End",
-    "PgDn",
     {
-      "x": 0.25
+      "a": 7
+    },
+    "",
+    {
+      "x": 0.25,
+      "a": 4
     },
     "7\nHome",
     "8\n↑",
@@ -113,25 +117,25 @@
     {
       "h": 2
     },
-    "+"
+    "+\nBcksp"
   ],
   [
     {
       "w": 1.75
     },
     "Ctrl",
-    "A",
-    "S",
-    "D",
-    "F",
+    "A\n\n\n\nHome",
+    "S\n\n\n\n$\n\nshade",
+    "D\n\n\n\nDelete\n\ndesktp",
+    "F\n\n\n\nRight\n\nfirefox",
     "G",
-    "H",
-    "J",
-    "K",
-    "L",
-    "Æ",
-    "Ø\n\n\n^",
-    "*\n'",
+    "H\n\n\n\nBacksp",
+    "J\n\n\n\nEnter",
+    "K\n\n\n\nHome",
+    "L\n\n\n\nPgUp\n\nlock",
+    "Æ\n\n\n\n|",
+    "Ø\n\n\n\n~",
+    "*\n'\n\n\n^",
     {
       "x": 4.75
     },
@@ -144,16 +148,16 @@
       "w": 1.25
     },
     "Shift",
-    ">\n<\n\n\\",
-    "Z",
-    "X",
-    "C",
+    "Hyper",
+    "Z\n\n\n\n<",
+    "X\n\n\n\n>",
+    "C\n\n\n\n\\",
     "V",
-    "B",
-    "N",
-    "M",
-    ";\n,",
-    ":\n.",
+    "B\n\n\n\nLeft",
+    "N\n\n\n\nDown",
+    "M\n\n\n\n\n\nmail",
+    ";\n,\n\n\nEnd",
+    ":\n.\n\n\nPgDn",
     "_\n-",
     {
       "w": 2.75
@@ -162,7 +166,7 @@
     {
       "x": 1.25
     },
-    "↑",
+    "↑\n\n\n\nVolUp",
     {
       "x": 1.25
     },
@@ -182,7 +186,7 @@
     {
       "w": 1.25
     },
-    "Fn",
+    "Win",
     {
       "w": 1.25
     },
@@ -212,9 +216,9 @@
     {
       "x": 0.25
     },
-    "←",
-    "↓",
-    "→",
+    "←\n\n\n\nPrev",
+    "↓\n\n\n\nVolDn",
+    "→\n\n\n\nNext",
     {
       "x": 0.25,
       "w": 2
