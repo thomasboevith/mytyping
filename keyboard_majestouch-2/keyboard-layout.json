@@ -117,7 +117,7 @@
     {
       "h": 2
     },
-    "+\nBcksp"
+    "+"
   ],
   [
     {
@@ -152,7 +152,7 @@
     "Z\n\n\n\n<",
     "X\n\n\n\n>",
     "C\n\n\n\n\\",
-    "V",
+    "V\n\n\n\n/",
     "B\n\n\n\nLeft",
     "N\n\n\n\nDown",
     "M\n\n\n\n\n\nmail",
