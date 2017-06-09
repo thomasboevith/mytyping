@@ -8,11 +8,11 @@
     "switchType": "MX1A-E1xx"
   },
   [
-    "Esc",
+    "Esc\n\n\n\nBootMd",
     {
       "x": 1
     },
-    "F1",
+    "F1\n\n\n\nM1",
     "F2",
     "F3",
     "F4",
@@ -29,7 +29,7 @@
     "F9",
     "F10",
     "F11",
-    "F12",
+    "F12\n\n\n\nConfig",
     {
       "x": 0.25
     },
@@ -41,7 +41,7 @@
     {
       "y": 0.5
     },
-    "§\n½\n\n¾",
+    "Esc\n\n\n\n½",
     "!\n1\n\n¡",
     "\"\n2\n\n@",
     "#\n3\n\n£",
@@ -62,7 +62,7 @@
       "x": 0.25
     },
     "Insert\n\n\n\nMute",
-    "Home\n\n\n\nPause",
+    "Home\n\n\n\nVolUp",
     "PgUp\n\n\n\nPlay",
     {
       "x": 0.25
@@ -77,13 +77,13 @@
       "w": 1.5
     },
     "Tab",
-    "Q\n\n\n@",
-    "W",
+    "Q\n\n\n@\n(",
+    "W\n\n\n\n)",
     "E\n\n\n€\nEnd\n\nemacs",
-    "R\n\n\n®",
-    "T\n\n\n\n\n\nterm",
-    "Y\n\n\n\n(",
-    "U\n\n\n\n)",
+    "R\n\n\n®\n{",
+    "T\n\n\n\n}\n\nterm",
+    "Y\n\n\n\n[",
+    "U\n\n\n\n]",
     "I\n\n\n\nTab",
     "O",
     "P\n\n\n\nUp",
@@ -101,12 +101,12 @@
     {
       "x": 0.25
     },
-    "Delete",
-    "End",
+    "Delete\n\n\n\nPrev",
+    "End\n\n\n\nVolDn",
     {
       "a": 7
     },
-    "",
+    "\n\n\n\nNext",
     {
       "x": 0.25,
       "a": 4
@@ -123,19 +123,19 @@
     {
       "w": 1.75
     },
-    "Ctrl",
+    "Ctrl\n\n\n\nCapsLock",
     "A\n\n\n\nHome",
     "S\n\n\n\n$\n\nshade",
     "D\n\n\n\nDelete\n\ndesktp",
     "F\n\n\n\nRight\n\nfirefox",
     "G",
     "H\n\n\n\nBacksp",
-    "J\n\n\n\nEnter",
+    "J\n\n\n\nInsert",
     "K\n\n\n\nHome",
     "L\n\n\n\nPgUp\n\nlock",
-    "Æ\n\n\n\n|",
-    "Ø\n\n\n\n~",
-    "*\n'\n\n\n^",
+    "Æ\n\n\n\nBacksp",
+    "Ø",
+    "*\n'",
     {
       "x": 4.75
     },
@@ -148,7 +148,7 @@
       "w": 1.25
     },
     "Shift",
-    "Hyper",
+    "Fn",
     "Z\n\n\n\n<",
     "X\n\n\n\n>",
     "C\n\n\n\n\\",
@@ -166,7 +166,7 @@
     {
       "x": 1.25
     },
-    "↑\n\n\n\nVolUp",
+    "↑",
     {
       "x": 1.25
     },
@@ -182,7 +182,7 @@
     {
       "w": 1.25
     },
-    "Ctrl",
+    "Fn",
     {
       "w": 1.25
     },
@@ -208,7 +208,7 @@
     {
       "w": 1.25
     },
-    "Menu",
+    "Fn",
     {
       "w": 1.25
     },
@@ -217,7 +217,7 @@
       "x": 0.25
     },
     "←\n\n\n\nPrev",
-    "↓\n\n\n\nVolDn",
+    "↓",
     "→\n\n\n\nNext",
     {
       "x": 0.25,
