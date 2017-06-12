@@ -130,11 +130,11 @@
     "F\n\n\n\nRight\n\nfirefox",
     "G",
     "H\n\n\n\nBacksp",
-    "J\n\n\n\nInsert",
+    "J",
     "K\n\n\n\nHome",
     "L\n\n\n\nPgUp\n\nlock",
     "Æ\n\n\n\nBacksp",
-    "Ø",
+    "Ø\n\n\n\nInsert",
     "*\n'",
     {
       "x": 4.75
@@ -148,11 +148,11 @@
       "w": 1.25
     },
     "Shift",
-    ">\n<\n\n\\",
-    "Z",
-    "X",
-    "C",
-    "V",
+    "Fn",
+    "Z\n\n\n\n<",
+    "X\n\n\n\n>",
+    "C\n\n\n\n\\",
+    "V\n\n\n\n/",
     "B\n\n\n\nLeft",
     "N\n\n\n\nDown",
     "M\n\n\n\n\n\nmail",
@@ -182,7 +182,7 @@
     {
       "w": 1.25
     },
-    "Fn",
+    "Ctrl",
     {
       "w": 1.25
     },
