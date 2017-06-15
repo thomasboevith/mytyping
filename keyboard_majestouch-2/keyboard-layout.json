@@ -176,13 +176,13 @@
     {
       "h": 2
     },
-    "Enter"
+    "Enter\n\n\n\nEnter"
   ],
   [
     {
       "w": 1.25
     },
-    "Ctrl",
+    "Fn",
     {
       "w": 1.25
     },
@@ -223,7 +223,7 @@
       "x": 0.25,
       "w": 2
     },
-    "0\nIns",
-    ",\nDel"
+    "0\nIns\n\n\nBackspace",
+    ",\nDel\n\n\nDelete"
   ]
 ]
