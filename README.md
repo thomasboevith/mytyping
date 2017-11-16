@@ -5,7 +5,7 @@ Files related to mechanical keyboards and typing.
 
 # Keyboard
 
-## Keybaord, Banana Split
+## Keyboard, Banana Split
 
 A [BananaSplit, 66 key, ISO Danish layout](http://www.keyboard-layout-editor.com/##@_backcolor=%23333333&name=Banana%20Split%20ISO%3B&@=Esc&=!%0A1&=%22%0A2&=%23%0A3&=%C2%A4%0A4&=%C2%A4%0A5&=%2F&%0A6&=%2F%2F%0A7&=(%0A8&=)%0A9&=%2F=%0A0&=%3F%0A+&=%60%0A%27&=%C2%BD%0A%C2%A7&=Back%3B&@_a:0&w:1.5%3B&=Tab%0A%0A%0A%0A%0A1.5u&_a:4%3B&=Q&=W&=E&=R&=T&=Y&=U&=I&=O&=P&=%C3%85&=%5E%0A%22&_x:0.25&w:1.25&h:2&w2:1.5&h2:1&x2:-0.25%3B&=Enter%3B&@_a:0&w:1.75%3B&=Ctrl%0A%0A%0A%0A%0A1.75u&_a:4%3B&=A&=S&=D&=F&=G&=H&=J&=K&=L&=%C3%86&=%C3%98&=*%0A%27%3B&@_a:0&w:1.25%3B&=Shift%0A%0A%0A%0A%0A1.25u&_a:4%3B&=%3E%0A%3C&=Z&=X&=C&=V&=B&=N&=M&=%2F%3B%0A,&=%2F:%0A.&=%2F_%0A-&_a:0&w:1.75%3B&=Shift%0A%0A%0A%0A%0A1.75u&_a:4%3B&=Up%3B&@_a:0&w:1.5%3B&=Ctrl%0A%0A%0A%0A%0A1.5u&_a:4%3B&=Super&_a:0&w:1.5%3B&=Alt%0A%0A%0A%0A%0A1.5u&_w:2.75%3B&=Fn1%0A%0A%0A%0A%0A2.75u&_w:1.5%3B&=Space%0A%0A%0A%0A%0A1.5u&_w:2.75%3B&=Fn2%0A%0A%0A%0A%0A2.75u&_a:4%3B&=AltGr&=Left&=Down&=Right) made with [Keyboard Layout Editor](http://www.keyboard-layout-editor.com/)
 
