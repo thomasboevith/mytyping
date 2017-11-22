@@ -5,6 +5,8 @@ Files related to mechanical keyboards and typing.
 
 # Keyboard
 
+All layouts made using [keyboard-layout-editor.com](http://www.keyboard-layout-editor.com/).
+
 ## Keyboard, Banana Split
 
 BananaSplit, 66 key, ISO Danish layout
