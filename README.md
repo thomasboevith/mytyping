@@ -7,7 +7,13 @@ Files related to mechanical keyboards and typing.
 
 All layouts made using [keyboard-layout-editor.com](http://www.keyboard-layout-editor.com/).
 
-## Keyboard, Banana Split
+## Keyboard, ISO Danish Split Spacebar
+
+ISO Danish Split Spacebar, 67 key, ISO Danish layout
+
+![ISO Danish Split Spacebar, 67 key, ISO Danish layout](keyboard_iso60splitspacebar/keyboard-layout.png)
+
+## Keyboard, BananaSplit
 
 BananaSplit, 66 key, ISO Danish layout
 
