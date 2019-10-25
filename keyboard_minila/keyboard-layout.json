@@ -1,6 +1,6 @@
 [
   {
-    "name": "FILCO Majestouch MINILA",
+    "name": "FILCO, Majestouch MINILA",
     "author": "Thomas Bøvith",
     "notes": "Super_L+Alt_L : for application shortcuts\n\nControl_L+Alt_L: for other shortcuts\n\nControl_L+æø : switch terminal tabs\n\nControl_L+1234 : switch panel workshapes\n\nControl_L+Alt_L+1234 : move window to workspace\n",
     "switchMount": "cherry"
@@ -10,7 +10,7 @@
       "f": 2
     },
     "Esc",
-    "!\n1\n\n¡\nF1",
+    "!\n1\n\n\nF1",
     "\"\n2\n\n@\nF2",
     "#\n3\n\n£\nF3",
     "¤\n4\n\n$\nF4",
@@ -23,25 +23,25 @@
     "?\n+\n\n±\nF11",
     "'\n`\n\n|\nF12",
     "§\n½\n\n¾",
-    "Back"
+    "Back\n\n\n\n\n\nMute"
   ],
   [
     {
       "w": 1.5
     },
     "Tab",
-    "Q",
-    "W",
-    "E\n\n\n\nUp\n\nEmacs",
-    "R",
-    "T\n\n\n\n\n\nTerminal",
+    "Q\n\n\n\n\n\n?",
+    "W\n\n\n\n\n\n*",
+    "E\n\n\n\nUp\n\n€",
+    "R\n\n\n\n\n\n%",
+    "T\n\n\n\n\n\n~",
     "Y",
-    "U",
-    "I\n\n\n\nPrint",
+    "U\n\n\n\n\n\n(",
+    "I\n\n\n\nPrint\n\n)",
     "O\n\n\n\nScLk",
-    "P\n\n\n\nCompse\n\nScDump",
-    "Å",
-    "^\n\"\n\n~",
+    "P\n\n\n\nCompse\n\n|",
+    "Å\n\n\n\n\n\n\"",
+    "^\n\n\n\n\n\n~",
     {
       "x": 0.25,
       "w": 1.25,
@@ -56,45 +56,45 @@
       "w": 1.75
     },
     "Control",
-    "A\n\n\n\n\n\nClipAct",
-    "S\n\n\n\nLeft\n\nShade",
-    "D\n\n\n\nDown\n\nDesktop",
-    "F\n\n\n\nRight\n\nFirefox",
-    "G",
-    "H",
-    "J\n\n\n\nInsert",
-    "K\n\n\n\nHome",
-    "L\n\n\n\nPgUp\n\nLockScr",
-    "Æ\nPrev ter\n\n\nBackSp\n\nVolDn",
-    "Ø\nNext ter\n\n\n\n\nVolUp",
-    "*\n'\n\n\n\n\nMute"
+    "A\n\n\n\n\n\n&",
+    "S\n\n\n\nLeft\n\n@",
+    "D\n\n\n\nDown\n\n$",
+    "F\n\n\n\nRight\n\n/",
+    "G\n\n\n\n\n\n#",
+    "H\n\n\n\n\n\n{",
+    "J\n\n\n\nInsert\n\n[",
+    "K\n\n\n\nHome\n\n]",
+    "L\n\n\n\nPgUp\n\n}",
+    "Æ\n\n\n\nBackSp",
+    "Ø",
+    "*"
   ],
   [
     "Shift",
-    ">\n<\n\n\\",
+    ">\n<\n\n\\\n\n\n\\",
     "Z",
     "X",
-    "C\n\n\n\n\n\nChrome",
-    "V\n\n\n\n\n\nClipbrd",
-    "B",
+    "C",
+    "V",
+    "B\n\n\n\n\n\n\\",
     "N",
-    "M\n\n\n\nDelete\n\nEmail",
-    ";\n.\n\n\nEnd",
-    ":\n.\n\n\nPgDn",
-    "_\n-",
+    "M\n\n\n\nDelete\n\nµ",
+    ";\n.\n\n\nEnd\n\n=",
+    ":\n.\n\n\nPgDn\n\n+",
+    "_\n-\n\n\n\n\n_",
     "Shift",
-    "Up",
+    "Up\n\n\n\n\n\nVolUp",
     "Delete"
   ],
   [
     {
       "w": 1.75
     },
-    "Control",
+    "Fn2",
     {
       "w": 1.25
     },
-    "Super",
+    "Fn2",
     {
       "w": 1.25
     },
@@ -116,10 +116,10 @@
     {
       "w": 1.25
     },
+    "Fn2",
     "AltGr",
-    "Menu",
-    "Left",
-    "Down",
-    "Right"
+    "Left\n\n\n\n\n\nPrev",
+    "Down\n\n\n\n\n\nVolDown",
+    "Right\n\n\n\n\n\nNext"
   ]
 ]
