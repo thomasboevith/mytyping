@@ -1,0 +1,325 @@
+[
+  {
+    "name": "FILCO, Majestouch-2, TKL",
+    "author": "Thomas Bøvith",
+    "switchMount": "cherry",
+    "switchBrand": "cherry",
+    "switchType": "MX1A-L1xx",
+    "pcb": false
+  },
+  [
+    {
+      "f": 4
+    },
+    "Esc",
+    {
+      "x": 1,
+      "t": "#000000\n\n\n\n\n#c100ff",
+      "a": 0
+    },
+    "F1\n\n\n\n\nM1",
+    "F2\n\n\n\n\nM2",
+    "F3\n\n\n\n\nM3",
+    "F4\n\n\n\n\nM4",
+    {
+      "x": 0.5
+    },
+    "F5\n\n\n\n\nM5",
+    "F6\n\n\n\n\nM6",
+    "F7\n\n\n\n\nM7",
+    "F8\n\n\n\n\nM8",
+    {
+      "x": 0.5,
+      "t": "#000000\n\n\n#c100ff\n#0075ff"
+    },
+    "F9\n\n\nM9\nPlay",
+    "F10\n\n\nM10\nMute",
+    "F11\n\n\nM11\nVolDown",
+    "F12\n\n\nM12\nVolUp",
+    {
+      "x": 0.25,
+      "t": "#000000\n\n\n\n#0075ff"
+    },
+    "PrtSc\n\n\n\nMacPlay",
+    {
+      "t": "#2d7d00\n\n\n\n#0075ff"
+    },
+    "Fn3\n\n\n\nMacRec",
+    {
+      "t": "#000000\n\n\n\n#0075ff"
+    },
+    "Pause\nBreak\n\n\nBoot"
+  ],
+  [
+    {
+      "y": 0.5,
+      "t": "#001aff\n#d40404\n\n\n\n\n\n\n#9c7e28\n\n#4a4444",
+      "a": 4
+    },
+    "¶\n¾\n\n\n\n\n\n\n§\n\n½",
+    "¹\n¡\n\n\n\n\n\n\n!\n\n1",
+    "²\n@\n\n\n\n\n\n\n\"\n\n2",
+    "³\n£\n\n\n\n\n\n\n#\n\n3",
+    "¼\n$\n\n\n\n\n\n\n¤\n\n4",
+    "¢\n½\n\n\n\n\n\n\n%\n\n5",
+    "⅝\n¥\n\n\n\n\n\n\n&\n\n6",
+    "÷\n{\n\n\n\n\n\n\n/\n\n7",
+    "«\n[\n\n\n\n\n\n\n(\n\n8",
+    "»\n]\n\n\n\n\n\n\n)\n\n9",
+    "°\n}\n\n\n\n\n\n\n=\n\n0",
+    "¿\n±\n\n\n\n\n\n\n?\n\n+",
+    "¦\n|\n\n\n\n\n\n\n`\n\n'",
+    {
+      "t": "#001aff",
+      "w": 2
+    },
+    "Backspace",
+    {
+      "x": 0.25,
+      "t": "#000000"
+    },
+    "Insert",
+    "Home",
+    "PgUp",
+    {
+      "x": 0.25
+    },
+    "Num Lock",
+    "/",
+    "*",
+    "-"
+  ],
+  [
+    {
+      "w": 1.5
+    },
+    "Tab",
+    {
+      "t": "#001aff\n#d40404\n\n\n\n#c100ff\n\n\n#9c7e28\n\n#4a4444",
+      "a": 0
+    },
+    "Ω\n@\n\n\n\n?\n\n\nQ\n\nq",
+    "Ł\nł\n\n\n\n[\n\n\nW\n\nw",
+    {
+      "t": "#001aff\n#d40404\n\n\n#0075ff\n\n\n\n#9c7e28\n\n#4a4444"
+    },
+    "¢\n€\n\n\nEnd\n\n\n\nE\n\ne",
+    {
+      "t": "#001aff\n#d40404\n\n\n\n#c100ff\n\n\n#9c7e28\n\n#4a4444"
+    },
+    "\n®\n\n\n\n]\n\n\nR\n\nr",
+    {
+      "t": "#001aff\n#d40404\n\n\n\n\n\n\n#9c7e28\n\n#4a4444",
+      "a": 4
+    },
+    "Þ\nþ\n\n\n\n\n\n\nT\n\nt",
+    "¥\n←\n\n\n\n\n\n\nY\n\ny",
+    "↑\n↓\n\n\n\n\n\n\nU\n\nu",
+    "ı\n→\n\n\n\n\n\n\nI\n\ni",
+    "Œ\nœ\n\n\n\n\n\n\nO\n\no",
+    {
+      "t": "#001aff\n#d40404\n\n\n#0075ff\n\n\n\n#9c7e28\n\n#4a4444",
+      "a": 0
+    },
+    "Þ\nþ\n\n\nUp\n\n\n\nP\n\np",
+    {
+      "t": "#001aff\n#d40404\n\n\n\n\n\n\n#9c7e28\n\n#4a4444",
+      "a": 4
+    },
+    "°\n\"\n\n\n\n\n\n\nÅ\n\nå",
+    "ˇ\n~\n\n\n\n\n\n\n^\n\n\"",
+    {
+      "x": 0.25,
+      "t": "#001aff",
+      "w": 1.25,
+      "h": 2,
+      "w2": 1.5,
+      "h2": 1,
+      "x2": -0.25
+    },
+    "Enter",
+    {
+      "x": 0.25,
+      "t": "#000000\n\n\n\n#0075ff",
+      "a": 0
+    },
+    "Delete\n\n\nMB1\nWinL",
+    "End\n\n\nMB2\nWinR",
+    "PgDn\n\n\nMB3\nMenu",
+    {
+      "x": 0.25,
+      "t": "#000000",
+      "a": 4
+    },
+    "7\nHome",
+    "8\n↑",
+    "9\nPgUp",
+    {
+      "h": 2
+    },
+    "+"
+  ],
+  [
+    {
+      "w": 1.75
+    },
+    "Ctrl",
+    {
+      "t": "#001aff\n#d40404\n\n\n#0075ff\n#c100ff\n\n\n#9c7e28\n\n#4a4444",
+      "a": 0
+    },
+    "º\nª\n\n\nHome\n{\n\n\nA\n\na",
+    {
+      "t": "#001aff\n#d40404\n\n\n\n#c100ff\n\n\n#9c7e28\n\n#4a4444"
+    },
+    "§\nß\n\n\n\n(\n\n\nS\n\ns",
+    {
+      "t": "#001aff\n#d40404\n\n\n#0075ff\n#c100ff\n\n\n#9c7e28\n\n#4a4444"
+    },
+    "Ð\nð\n\n\nDel\n$\n\n\nD\n\nd",
+    "ª\nđ\n\n\nRight\n)\n\n\nF\n\nf",
+    {
+      "t": "#001aff\n#d40404\n\n\n\n#c100ff\n\n\n#9c7e28\n\n#4a4444"
+    },
+    "Ŋ\nŋ\n\n\n\n}\n\n\nG\n\ng",
+    {
+      "t": "#001aff\n#d40404\n\n\n#0075ff\n\n\n\n#9c7e28\n\n#4a4444"
+    },
+    "Ħ\nħ\n\n\nBacksp\n\n\n\nG\n\nh",
+    {
+      "t": "#001aff\n#d40404\n\n\n\n\n\n\n#9c7e28\n\n#4a4444",
+      "a": 4
+    },
+    "̛\n_̉\n\n\n\n\n\n\nJ\n\nj",
+    "&\nĸ\n\n\n\n\n\n\nK\n\nk",
+    "Ł\nł\n\n\n\n\n\n\nL\n\nl",
+    "˝\n´\n\n\n\n\n\n\nÆ\n\næ",
+    {
+      "t": "#001aff\n#d40404\n\n\n#0075ff\n\n\n\n#9c7e28\n\n#4a4444",
+      "a": 0
+    },
+    "ˇ\n^\n\n\nTab\n\n\n\nØ\n\nø",
+    {
+      "t": "#001aff\n#d40404\n\n\n\n\n\n\n#9c7e28\n\n#4a4444",
+      "a": 4
+    },
+    "×\n˝\n\n\n\n\n\n\n*\n\n'",
+    {
+      "x": 4.75,
+      "t": "#000000"
+    },
+    "4\n←",
+    "5",
+    "6\n→"
+  ],
+  [
+    {
+      "t": "#001aff\n#9c7e28",
+      "w": 1.25
+    },
+    "Shift\nShift",
+    {
+      "t": "#001aff\n#d40404\n\n\n\n\n\n\n#9c7e28\n\n#4a4444"
+    },
+    "¬\n\\\n\n\n\n\n\n\n>\n\n<",
+    "<\n«\n\n\n\n\n\n\nZ\n\nz",
+    ">\n»\n\n\n\n\n\n\nX\n\nx",
+    "\n©\n\n\n\n\n\n\nC\n\nc",
+    "‘\n“\n\n\n\n\n\n\nV\n\nv",
+    {
+      "t": "#001aff\n#d40404\n\n\n#0075ff\n\n\n\n#9c7e28\n\n#4a4444",
+      "a": 0
+    },
+    "’\n”\n\n\nLeft\n\n\n\nB\n\nb",
+    "N\nn\n\n\nDown\n\n\n\nN\n\nn",
+    {
+      "t": "#001aff\n#d40404\n\n\n\n\n\n\n#9c7e28\n\n#4a4444",
+      "a": 4
+    },
+    "º\nµ\n\n\n\n\n\n\nM\n\nm",
+    "˛\n¸\n\n\n\n\n\n\n;\n\n,",
+    "o˙\n·\n\n\n\n\n\n\n;\n\n.",
+    "o˙\ṇ̣̣̣ọ\n\n\n\n\n\n\n_\n\n-",
+    {
+      "t": "#001aff\n#9c7e28",
+      "w": 2.75
+    },
+    "Shift\nShift",
+    {
+      "x": 1.25,
+      "t": "#000000\n\n\n\n\n#c100ff",
+      "a": 0
+    },
+    "↑\n\n\n\n\nMouse",
+    {
+      "x": 1.25,
+      "t": "#000000",
+      "a": 4
+    },
+    "1\nEnd",
+    "2\n↓",
+    "3\nPgDn",
+    {
+      "h": 2
+    },
+    "Enter"
+  ],
+  [
+    {
+      "w": 1.25
+    },
+    "Ctrl",
+    {
+      "t": "#0075ff",
+      "w": 1.25
+    },
+    "Fn1",
+    {
+      "t": "#001aff",
+      "w": 1.25
+    },
+    "Alt",
+    {
+      "t": "#000000",
+      "a": 7,
+      "w": 6.25
+    },
+    "",
+    {
+      "t": "#001aff\n#d40404",
+      "a": 4,
+      "w": 1.25
+    },
+    "AltGr\nAltGr",
+    {
+      "t": "#c100ff",
+      "w": 1.25
+    },
+    "Fn2",
+    {
+      "w": 1.25
+    },
+    "Fn2",
+    {
+      "t": "#000000",
+      "w": 1.25
+    },
+    "Ctrl",
+    {
+      "x": 0.25,
+      "t": "#000000\n\n\n\n\n#c100ff",
+      "a": 0
+    },
+    "←\n\n\n\n\nMouse",
+    "↓\n\n\n\n\nMouse",
+    "→\n\n\n\n\nMouse",
+    {
+      "x": 0.25,
+      "t": "#000000",
+      "a": 4,
+      "w": 2
+    },
+    "0\nIns",
+    ".\nDel"
+  ]
+]
