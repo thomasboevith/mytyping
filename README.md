@@ -6,11 +6,11 @@ Files related to mechanical keyboards and typing.
 # Keyboard
 Layouts made using [keyboard-layout-editor.com](http://www.keyboard-layout-editor.com/).
 
-## Keyboard, FILCO MINILA
+## Current keyboard: FILCO, Majestouch-2, tenkeyless
 
-FILCO, Majestouch MINILA, 60% compact (68 keys), ISO Danish layout
+FILCO, Majestouch-2, tenkeyless (88 keys), ISO Danish layout
 
-![My FILCO MINILA layout](keyboard_minila/keyboard-layout2.png)
+![My FILCO Majestouch-2 tenkeyless layout](filco_majestouch-2-tenkeyless-layout.png)
 
 
 # My Typeracer statistics
