@@ -12,7 +12,7 @@ FILCO, Majestouch-2, tenkeyless (88 keys) and fullsize (105 keys), ISO Danish la
 
 Replaced the controllers with The Pegasus Hoof (on tenkeyless) and Tiger Lily (on fullsize) controllers from http://bathroomepiphanies.com/controllers/
 
-![My FILCO Majestouch-2 tenkeyless layout](filco_majestouch-2-tenkeyless-layout.png)
+![My FILCO Majestouch-2 tenkeyless layout](filco_majestouch-2-tenkeyless-layout_2022.png)
 
 
 # My Typeracer statistics
